@@ -4,9 +4,9 @@ body {
   margin: 10px auto;
 }
 img {
-  /*width: 150px;*/
-  /*box-shadow: 8px 8px 4px #AAA;*/
-  /*float: right;*/
+  width: 150px;
+  box-shadow: 8px 8px 4px #AAA;
+  float: right;
 }
 
 .header {
